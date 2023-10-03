@@ -1,4 +1,4 @@
-bpackage com.bima.mywidgets
+package com.bima.mywidgets
 
 import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
